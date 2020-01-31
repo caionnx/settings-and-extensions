@@ -19,7 +19,6 @@ code --install-extension dzannotti.vscode-babel-coloring
 code --install-extension EditorConfig.EditorConfig
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-close-tag
-code --install-extension JamesBirtles.svelte-vscode
 code --install-extension johnpapa.vscode-peacock
 code --install-extension karigari.chat
 code --install-extension mikestead.dotenv
