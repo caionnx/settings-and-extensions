@@ -1,6 +1,7 @@
 # settings-and-extensions
 
 ## Chromium
+- Accessibility Insights for Web
 - Bitwarden - Free Password Manager
 - Extension Manager
 - Grammarly for Chrome
@@ -10,6 +11,7 @@
 - Save to Pocket
 - The Great Suspender
 - Toby for Chrome
+- VisBug
 
 ## VSCode
 ```
